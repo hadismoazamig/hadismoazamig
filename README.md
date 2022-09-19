@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am **Hadis**, a PhD student in industrial engineering. My research is on ***cancer treatment optimization***. 
+
+<sub>UH student</sub>
+
 <!--
 **hadismoazamig/hadismoazamig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
