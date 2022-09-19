@@ -2,6 +2,8 @@
 
 I am **Hadis**, a PhD student in industrial engineering. My research is on ***cancer treatment optimization***. 
 
+🌱I am interested is ML and programming in Python.
+
 <sub>UH student</sub>
 
 <!--
