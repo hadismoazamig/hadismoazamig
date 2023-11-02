@@ -2,7 +2,7 @@
 
 I am **Hadis**, a PhD student in industrial engineering. My research is on ***cancer treatment optimization***. 
 
-🌱I am interested is ML and programming in Python.
+🌱I am interested in operations research, large-scale optimization, ML, and programming in Python, R, and Matlab.
 
 <sub>UH student</sub>
 
